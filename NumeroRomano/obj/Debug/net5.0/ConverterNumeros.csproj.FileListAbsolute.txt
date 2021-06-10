@@ -1,0 +1,16 @@
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.exe
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.deps.json
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.runtimeconfig.json
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.runtimeconfig.dev.json
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.dll
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ref\ConverterNumeros.dll
+D:\AcademiaProgramador\NumeroRomano\bin\Debug\net5.0\ConverterNumeros.pdb
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.csprojAssemblyReference.cache
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.AssemblyInfoInputs.cache
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.AssemblyInfo.cs
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.dll
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ref\ConverterNumeros.dll
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.pdb
+D:\AcademiaProgramador\NumeroRomano\obj\Debug\net5.0\ConverterNumeros.genruntimeconfig.cache
